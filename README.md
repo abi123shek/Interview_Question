@@ -1,0 +1,3 @@
+Can you describe how you manage Docker image updates and versioning in a production environment to ensure consistency and reliability across your deployments?
+ Can you describe how you integrate Prometheus and Grafana in your system to ensure high availability and responsiveness? Specifically, what metrics do you focus on, and how do you set up alerts to manage service reliability?
+Understood. Using Helm to integrate Prometheus and Grafana is a good approach for system monitoring. Once you have that set up, how do you ensure that your alerting system is effective in maintaining service reliability? Specifically, what thresholds and alert rules do you configure for critical metrics?
